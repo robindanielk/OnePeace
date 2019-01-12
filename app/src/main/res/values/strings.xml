@@ -10,4 +10,15 @@
   <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
   <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
   <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="invalid_input">INVALID INPUTS..KINDLY CHECK !!</string>
+    <string name="no_internet">CHECK INTERNET CONNECTION !!</string>
+    <string name="registration_success">REGISTRATION SUCCESS..</string>
+    <string name="email_already_registered">EMAIL ALREADY REGISTERED....</string>
+    <string name="registration_failed">REGISTRATION FAILED...</string>
+
+
+
 </resources>

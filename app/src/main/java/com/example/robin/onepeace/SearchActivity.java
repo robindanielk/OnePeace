@@ -15,6 +15,7 @@ public class SearchActivity extends AppCompatActivity {
 
     private SearchView searchView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,4 +57,6 @@ public class SearchActivity extends AppCompatActivity {
                             }
                         });
     }
-}
+    }
+
+
