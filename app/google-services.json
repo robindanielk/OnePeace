@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407396003243",
+    "firebase_url": "https://onepeace-6d8e4.firebaseio.com",
+    "project_id": "onepeace-6d8e4",
+    "storage_bucket": "onepeace-6d8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407396003243:android:fb09793feb2a18d5",
+        "android_client_info": {
+          "package_name": "com.example.robin.onepeace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407396003243-r3m3re8vq0a68cse0uejh5k8tfaombet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robin.onepeace",
+            "certificate_hash": "d6f11e72e993378330ad636bb4c3b6f84949d41d"
+          }
+        },
+        {
+          "client_id": "407396003243-u9a5udu48caqc47l4tmkm8a6uepbt74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-mLT-94UhXyC9T01EQRfUrNbgHfwljFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407396003243-u9a5udu48caqc47l4tmkm8a6uepbt74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OnePeace</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="new_user_registration">NEW USER REGISTRATION</string>
+    <string name="register_btn_heading">REGISTER</string>
+    <string name="cancel_btn_heading">CANCEL</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="invalid_input">INVALID INPUTS..KINDLY CHECK !!</string>
+    <string name="no_internet">CHECK INTERNET CONNECTION !!</string>
+    <string name="registration_success">REGISTRATION SUCCESS..</string>
+    <string name="email_already_registered">EMAIL ALREADY REGISTERED....</string>
+    <string name="registration_failed">REGISTRATION FAILED...</string>
+
+
+
+</resources>
