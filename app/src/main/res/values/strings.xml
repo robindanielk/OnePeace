@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OnePeace</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="new_user_registration">NEW USER REGISTRATION</string>
+    <string name="register_btn_heading">REGISTER</string>
+    <string name="cancel_btn_heading">CANCEL</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
 </resources>
